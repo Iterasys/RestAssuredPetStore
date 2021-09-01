@@ -1,2 +1,17 @@
-9223372036854775807
-9223372036854775807
+AVISOS:
+
+Curso de REST-assured
+- Última aula - Integração Continua e Relatório: Quinta, 2/Set - 19h --> On Demand: Sexta, 3/Set
+- Simulado e avaliação: 8/Set
+- Vamos gravar vídeos adicionais a partir das sugestões de vocês
+- Os temas adicionais serão votados e ficarão em uma fila de produção
+
+9/9
+- Dia do Bug - Grace Hopper
+> 19h - Live - Sobre essa data do 1º Bug e Bugs mais graves de 2021
+> 21h - Gente da Qualidade com Walter Melo
+
+Curso de Introdução ao Python
+- Terça, 14/Set - 19h às 22h
+- Sábado, 18/Set - 19h às 22h
+- Gratuito
